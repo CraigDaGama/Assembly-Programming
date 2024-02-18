@@ -1,4 +1,4 @@
-; Craig Da Gama 22co10
+; Craig Da Gama
 ; ALP to add two numbers in memeoy and display the sum to the user on the output device
 
 ; data segment
